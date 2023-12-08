@@ -34,4 +34,6 @@ We welcome contributions and collaborations to expand and improve the parallel l
 
 *Note: Please ensure to adhere to the repository's guidelines and licensing information when contributing.*
 
-For more information or inquiries, feel free to contact [Your Name or Contact Information].
+**Contact:**
+For more information or inquiries, feel free to contact **Mr. Tungon Dugi**  
+[Email: tungondugi@gmail.com](mailto:tungondugi@gmail.com).
