@@ -22,6 +22,7 @@ We welcome contributions and collaborations to expand and improve the parallel l
 
 ### Repository Structure
 
+- `English/`: Parallel data for the English language
 - `Apatani/`: Parallel data for the Apatani dialect
 - `Adi/`: Parallel data for the Adi dialect
 - `Galo/`: Parallel data for the Galo dialect
